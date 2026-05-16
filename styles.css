@@ -1,0 +1,36 @@
+body {
+    color: #82a5ca;
+    font-family: "Orbitron", sans-serif;
+    margin: 0px;
+}
+
+.hero {
+    text-align: center;
+    background-image: url("./media/galaxy.webp");
+    background-size: cover;
+    padding: 50px;
+    padding-top: 10px;
+}
+
+.btn {
+    padding: 6px 12px;
+    font-weight: bold;
+    border-radius: 3px;
+    background: white;
+    border: none;
+    font-family: inherit;
+}
+
+.ul {
+    text-decoration: underline white;
+    text-shadow: 1px 1px 4px black;
+}
+
+#nasa {
+    width:50px;
+}
+
+#terms {
+    text-align: center;
+    color: black;
+}
